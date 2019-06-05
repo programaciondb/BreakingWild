@@ -1,3 +1,2 @@
 # BreakingWild_1.0
-Juego de texto basado en Java
-Sobre un mono en un zoologico que desea escapar.
+Terminal based Java Game. A monkey dreaming with the jungle, has to make the right decisions to escape the zoo!
